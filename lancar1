@@ -934,6 +934,11 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png" group-title="Knowledge",OUTSIDE TV
+
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
