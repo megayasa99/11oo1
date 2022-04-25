@@ -129,16 +129,7 @@ https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
 #EXTINF:0 tvg-id="ntv.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png" group-title="Lokal",Nusantara TV HD
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg4OOhz_cfc3VB_JcKGCm9AfjhDCGW82iH_Ahvq3IwPTdVREpLmH437koOhWDq0Zi3FQ4xvHnEjSOtHve02BDUEBtbigK26AwL7X7zLhIkkqzuN384pfVlmiRNil8T1AGK_KRSUht3FwyaBV8HdwZX3YjSgmmMLE1pdZltarnbmsewt4Vudu9tbrXFj" group-title="Lokal", Citra Drama
-http://tvn.x10.bz/channel/master-2.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9wC0-zm5dGSderTIbf43y12h7goE-767JP-V-aCPXwL6VURGojZDLM2CByLPfGNWiu68H6veytBFCE9lMgUAO4ysanAw1GgcMxkq3-6t21s7Ht5p7D2ZMkTMJdSaoyzsXiJW0RPb3APbH11POeKxy0cFoE3diCrJ-3dg00AWtsufDrNUWjj6vF6fL=s320" group-title="Lokal", Citra Bioskop
-http://tvn.x10.bz/channel/master-1.m3u8
 
 
 #EXTINF:0 tvg-id="tic.id" tvg-name="" tvg-logo="https://i.ibb.co/4424QQY/the-indonesia-channel.png" group-title="Lokal",The Indonesia Channel HD
