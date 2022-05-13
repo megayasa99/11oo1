@@ -202,7 +202,9 @@ https://teveMobile.us.to/sc/start.m3u8?id=7946
 
 
 #EXTINF:-1 tvg-id="ELSHINTA.id" tvg-logo="https://i.postimg.cc/50r7jQR7/Elshinta.png" group-title="Lokal", Elshinta
-http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
+https://live-production.secureswiftcontent.com/exp=1652467927~acl=/hls-p/ingest_6401_*/*~hmac=dab6252d56b59257e1b84a78008245d46c34ff95e810bf0eb7fa01ff9840458d/hls-p/ingest_6401_720p/index.m3u8
+
+#http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
 
 
 ============liga 1 bri==================
